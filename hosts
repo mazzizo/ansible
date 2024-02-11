@@ -72,9 +72,6 @@
 #phxdock
 192.168.0.3
 
-[hetzner]
-5.78.100.20
-
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3
 ansible_ssh_user=semaphore
